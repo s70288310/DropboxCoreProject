@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkAppTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_no_path">not found</string>
+    <string name="updating">Updating</string>
+    <string name="empty">Folder is empty</string>
+    <string name="alreadylogout">is already log out !</string>
+</resources>
